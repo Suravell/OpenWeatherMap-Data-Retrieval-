@@ -1,0 +1,2 @@
+# OpenWeatherMap-Data-Retrieval-
+This Python script utilizes the requests library to fetch weather data from the OpenWeatherMap API for a specified city. It employs pandas to organize the data into a DataFrame before saving it to a CSV file. The script defines a function to handle the API request, extract relevant weather information, and another function to orchestrate the process. Upon execution, it checks whether the script is run directly and then initiates the main function, resulting in the retrieval and storage of weather data.
